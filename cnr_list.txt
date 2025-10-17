@@ -1,0 +1,23 @@
+# Sample CNR numbers for testing
+# Format: SSCCNNNNNNNNNNNN (16 characters)
+# SS = State Code, CC = Court Code, NNNNNNNNNNNN = Unique Number
+
+# Gujarat High Court examples
+GJAH010053852024
+GJAH010053852025
+
+# Delhi High Court examples  
+DL01HC001234567
+DL01HC001234568
+
+# Maharashtra District Court examples
+MH01DC005678901
+MH01DC005678902
+
+# Karnataka High Court examples
+KA01HC009876543
+KA01HC009876544
+
+# Tamil Nadu District Court examples
+TN01DC001122334
+TN01DC001122335
